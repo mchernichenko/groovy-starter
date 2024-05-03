@@ -1,1 +1,1 @@
-# java-groovy
+# groovy-starter
